@@ -36,3 +36,6 @@ Bach, B., et al. (2018). Narrative Design Patterns for Data-Driven Storytelling.
 Sayers, J., 2018. Before You Make a Thing. [ONLINE] Available at: https://jentery.github.io/ts200v2/notes.html. [Accessed 18 November 2018].
 
 *From website: This is a guide for Technology and Society 200 (Fall 2018; 60 undergraduate students) at the University of Victoria. It consists of three point-form lists. The first is a series of theories and concepts drawn from assigned readings, the second is a rundown of practices corresponding with projects we studied, and the third itemizes prototyping techniques conducted in the course.*
+
+## Notes
+2018-12-01: [Data, design and uncertainty](https://github.com/ekoner/data-storytelling-design/blob/master/data-design-and-uncertainty.md)
