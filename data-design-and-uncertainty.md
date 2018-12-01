@@ -18,7 +18,7 @@ Nelson, who has a background in marketing, is reflecting on lessons learned from
 * subject matter experts
 * third-party data
 
-Handily, the article includes some examples from MyFitnessPal to give some context on how to sucessfull discover and remove roadblocks.
+Handily, the article includes some examples from [MyFitnessPal](https://www.myfitnesspal.com/) to give some context on how to sucessfull discover and remove roadblocks.
 
 In my role as a consultant, I have some preliminary (but untested thoughts) on roadblock. The competition here for my customers is that they know my services (data + storytelling + design) are important but they can't always articulate: 
 
@@ -36,15 +36,15 @@ It's been useful to learn about obstacles, but I think there are more tricks of 
 
 [Ben Holliday](http://www.hollidazed.co.uk/)’s is to ask the questions:
 
-* Why are we doing this work? **or What is our motivation for building this product or service?**
+* Why are we doing this work? *or What is our motivation for building this product or service?*
 
-* Who are our users? **or Who do we think would need to use this product or service?**
+* Who are our users? *or Who do we think would need to use this product or service?*
 
-* What outcome will users get from this service? **or What problem will it solve for people?**
+* What outcome will users get from this service? *or What problem will it solve for people?*
 
-* What outcome are we looking for? **or What problem will it solve for our organisation?**
+* What outcome are we looking for? *or What problem will it solve for our organisation?*
 
-* What are our key metrics? **or What do we need to measure against these outcomes?**
+* What are our key metrics? *or What do we need to measure against these outcomes?*
 
 [Ben](http://www.hollidazed.co.uk/) also covers how to ask the questions, starting from motivations then digging deeper into alignment and finally measuring success.
 
@@ -72,7 +72,7 @@ If it's the case that asking our customers for advice about their areas of exper
 
 In my projects, like the CRM and digital transformation project for [Freedom Studios](https://www.freedomstudios.co.uk/), I’ve encouraged a collaborative approach. We started with me leading the way, transitioned to me facilitating, then ended with my customers telling me what they needed. By the end of the project, we had clarity about the goals and capabilities of the CRM, new skills in the organisation and confidence in the system. 
 
-Co-creation works when customers are willing to put the time in *and* use the outputs outside the project. If whatever lessons you've learned are put aside after the project, it's unlikley any changes will stick.
+Co-creation works when customers are willing to put the time in **and** use the outputs outside the project. If whatever lessons you've learned are put aside after the project, it's unlikley any changes will stick.
 
 ## And in conclusion
 
