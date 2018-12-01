@@ -1,4 +1,4 @@
-# Data and Storytelling
+# data + storytelling + design
 
 ## A lifelong learning research notebook for a data enthusiast
 
