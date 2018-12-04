@@ -25,7 +25,7 @@ In my role as a consultant, I have some preliminary (but untested thoughts) on r
 * their goals for the project
 * how they'll know the project has been successful
 * how the project supports their mission
-* their own data ecosystem and lack the means and framework for doing so *thanks to [Ade](https://twitter.com/Adewunmi) for highlighting this*
+* their own data ecosystem and lack the means and framework for doing so (*thanks to [Ade](https://twitter.com/Adewunmi) for highlighting this*)
 
 Time (I believe) is ~~the biggest~~ another obstacle my customers face. Getting the right people in the room and giving the project enough resources and support to thrive can be a challenge. These are assumptions to test to help me understand my customers better and better help them get what they want out of our relationship.
 
